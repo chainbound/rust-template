@@ -12,3 +12,19 @@ updates:
       interval: "weekly"
       day: "monday"
       time: "07:00"
+    groups:
+      major:
+        patterns:
+          - "*"
+        update-types:
+          - "major"
+      minor:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+      patch:
+        patterns:
+          - "*"
+        update-types:
+          - "patch"
