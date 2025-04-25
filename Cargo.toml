@@ -3,7 +3,6 @@ name = "TODO"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-# rust-version = "1.83"
 exclude = [".github/"]
 repository = "TODO"
 
